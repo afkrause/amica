@@ -1,0 +1,23 @@
+# Server configuration
+remote_ollama_server: false  # Use a remote server or not
+logging: false  # Enable or disable logging
+
+# Asset paths
+assets:
+  folder: "assets"  # Base folder
+  qa_file: "Q&A.yaml"  # File with questions
+  qa_data: "packaged_questions"  # Precalculated questions
+  llm_data: "packaged_data"  # List of Data files
+#  prompt_file: "amica_prompt_longer_answers_de.txt"  # Prompt file
+  prompt_file: "amica_prompt_qwen_de.txt"  # Prompt file
+
+# Model parameters
+model_parameters:
+  language: "de"  # Language
+#  main_llama_version: "llama3.1:8b-instruct-fp16"  # Main LLaMA version
+#  tool_llama_version: "llama3.2:3b-instruct-fp16"  # Tool LLaMA version
+  main_llama_version: "qwen3:32b"
+  tool_llama_version: "qwen3:32b"
+  embeddings_model: "Snowflake/snowflake-arctic-embed-l-v2.0"  # Embedder model
+  semantic_threshold: 0.85  # Semantic threshold
+  enable_rephrasing: true  # Enable or disable rephrasing

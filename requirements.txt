@@ -1,0 +1,19 @@
+opencv-python
+sounddevice
+librosa
+pyaudio
+pandas # loading csv tables
+pillow # deprecated (for font rendering, but too slow)
+pygame-ce # for gamepad, later for gui rendering
+piper-tts # german voice output 
+transformers # for whisper turbo
+sentence_transformers
+
+beautifulsoup4
+ollama
+torch
+langchain
+langchain-core
+langchain-ollama
+langchain-huggingface
+
