@@ -1,6 +1,6 @@
-# Amica: A privacy-friendly chatbot for school-kids. 
+# Amica: A privacy-friendly voice assistant for school children. 
 
-TODO: description, figure of data-flow, 
+
 
 ## Menu: [Installation](#Installation) | [Usage](#Usage) | [Documentation](#Documentation) 
 
