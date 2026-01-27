@@ -1,0 +1,99 @@
+Zeitplan für Student 12345, Joshua
+| Zeit            | Montag                   | Dienstag                 | Mittwoch                 | Donnerstag               | Freitag                  |
+| --------------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
+| 08:00–08:45 (1) | Mathematik (R207)        | Deutsch (R105)           | Physik (Lab B)           | Englisch (R109)          | Informatik (C1)          |
+| 08:50–09:35 (2) | Mathematik (R207)        | Deutsch (R105)           | Physik (Lab B)           | Englisch (R109)          | Informatik (C1)          |
+| 09:35–09:55     |   Pause                  |   Pause                  |   Pause                  |   Pause                  |   Pause                  |
+| 09:55–10:40 (3) | Geschichte (R210)        | Chemie (Lab A)           | Sport (Halle)            | Informatik (C1)          | Spanisch (R112)          |
+| 10:45–11:30 (4) | Geschichte (R210)        | Chemie (Lab A)           | Sport (Halle)            | Informatik (C1)          | Spanisch (R112)          |
+| 11:30–15:25     |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |
+
+Zeitplan für Student 67890, Garfield
+| Zeit            | Montag                   | Dienstag                 | Mittwoch                 | Donnerstag               | Freitag                  |
+| --------------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
+| 08:00–08:45 (1) | Deutsch (R104)           | Geschichte (R210)        | Französisch (R111)       | Politik/Wirt. (R205)     | Deutsch (R104)           |
+| 08:50–09:35 (2) | Deutsch (R104)           | Geschichte (R210)        | Französisch (R111)       | Politik/Wirt. (R205)     | Deutsch (R104)           |
+| 09:35–09:55     |   Pause                  |   Pause                  |   Pause                  |   Pause                  |   Pause                  |
+| 09:55–10:40 (3) | Englisch (R108)          | Spanisch (R112)          | Kunst (Atelier)          | Englisch (R108)          | Geographie (R202)        |
+| 10:45–11:30 (4) | Englisch (R108)          | Spanisch (R112)          | Kunst (Atelier)          | Englisch (R108)          | Geographie (R202)        |
+| 11:30–15:25     |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |
+
+Zeitplan für Studentin 11223, Lizzy
+| Zeit            | Montag                   | Dienstag                 | Mittwoch                 | Donnerstag               | Freitag                  |
+| --------------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
+| 08:00–08:45 (1) | Kunst (Atelier)          | Informatik (C1)          | Deutsch (R105)           | Mathematik (R207)        | Englisch (R109)          |
+| 08:50–09:35 (2) | Kunst (Atelier)          | Informatik (C1)          | Deutsch (R105)           | Mathematik (R207)        | Englisch (R109)          |
+| 09:35–09:55     |   Pause                  |   Pause                  |   Pause                  |   Pause                  |   Pause                  |
+| 09:55–10:40 (3) | Medienpraxis (Studio)    | Musik (Musiksaal)        | Geschichte (R210)        | Informatik (C1)          | Biologie (R206)          |
+| 10:45–11:30 (4) | Medienpraxis (Studio)    | Musik (Musiksaal)        | Geschichte (R210)        | Informatik (C1)          | Biologie (R206)          |
+| 11:30–15:25     |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |   Frei / Selbststudium   |
+
+Stundenplan und Unterrichtsalltag
+Dein Schultag beginnt um 8:00 Uhr und endet normalerweise um 15:00 Uhr. Eine Unterrichtsstunde dauert 45 Minuten. Das Mittagessen beginnt um 12:00 Uhr.
+
+Räume und Orientierung in der Schule
+Die Turnhalle befindet sich im Erdgeschoss, gleich neben der Aula. Die Toiletten sind ebenfalls im Erdgeschoss, links vom Eingang. Die Bibliothek findest du im ersten Stock – einfach die Treppe hoch und dann links. Der Musikraum ist in der zweiten Etage auf der linken Seite, der Kunstraum im Dachgeschoss. Das Krankenzimmer liegt im Erdgeschoss, neben dem Sekretariat. Wenn du warten musst, bis du abgeholt wirst, kannst du dich in die Pausenhalle setzen.
+
+Mittagessen und Verpflegung
+Das Mittagessen wird in der Mensa serviert. Das Mittagessen beginnt um 12:00 Uhr. Heute gibt es Hähnchen-Cordon Bleu, Blumenkohl Falafel und Orientalische Linsensuppe mit Kokosmilch. Dort kannst du auch Snacks kaufen, zum Beispiel Obst und Joghurt. Wenn du dein eigenes Essen mitgebracht hast, darfst du es in der Mensa oder auf dem Pausenhof essen.
+
+Hausaufgaben und Lernen
+Heute hast du Mathe-Hausaufgaben auf: Seite 12, Nummer 3 und 4. Wenn du Hilfe brauchst, kannst du in den Lernraum gehen oder deinen Lehrer fragen. Um gut für Klassenarbeiten zu lernen, ist es hilfreich, früh anzufangen, regelmäßig zu üben und kleine Pausen zu machen. Falls du deine Hausaufgaben vergisst, gib deinem Lehrer Bescheid und hole sie so schnell wie möglich nach. Ein Plan oder eine App kann dir helfen, deine Aufgaben besser zu organisieren.
+
+Unterstützung und Inklusion
+Wenn du etwas nicht verstehst, bitte deinen Lehrer, es dir noch einmal zu erklären. Du kannst Mitschriften von deinen Mitschülern oder dem Lehrer bekommen. Bei Lernschwierigkeiten, Förderbedarf oder Bedarf an zusätzlicher Zeit für Tests kannst du mit deinem Lehrer oder Förderlehrer sprechen. Der Förderlehrer oder Schulassistent kann dir auch beim Benutzen von Hilfsmitteln helfen.
+
+Soziales und Wohlbefinden
+Wenn es dir nicht gut geht, sag bitte deinem Lehrer Bescheid oder geh ins Krankenzimmer. Bei Kopfschmerzen, Angst vor Tests oder emotionaler Belastung kannst du mit einem Lehrer, dem Schulsozialarbeiter oder einem Vertrauenslehrer sprechen. Auch der Ruhe-Raum steht dir zur Verfügung. Wenn du traurig bist, hilft ein Gespräch mit einem Freund oder Lehrer. Um Freunde zu finden, sei freundlich, sprich andere an und mach bei Gruppenaktivitäten mit.
+
+Verhalten und Regeln
+Im Klassenraum wird gut zugehört, man meldet sich, und alle gehen freundlich miteinander um. Handys dürfen nur in den Pausen mit Erlaubnis benutzt werden. Wenn du den Klassenraum verlassen musst, frage vorher deinen Lehrer.
+
+Freizeit und Nachmittagsangebote
+Nachmittagsangebote beginnen um 15:00 Uhr. Es gibt Clubs, Sportarten wie Fußball, Basketball und Tischtennis, und kulturelle Angebote wie Schulband, Talentshow oder Theater. Melde dich bei den jeweiligen Lehrern oder im Sekretariat an, um mitzumachen.
+
+Technik und Mediennutzung
+Wenn du dein Tablet oder Laptop benutzen willst, gibt es im Klassenraum Ladegeräte. Bei technischen Problemen hilft dir dein Lehrer oder die IT-Abteilung. Drucker stehen in der Bibliothek und beim Sekretariat. Für Hausaufgaben online kannst du dich im Schulportal anmelden.
+
+Zeitplan Bus 1 – Rheinberg Ossenberg Kirche
+* 10:27
+* 11:27
+* 12:27
+* 13:27
+* 14:27
+* 15:27
+* 16:27
+* 17:27
+* 18:27
+
+Zeitplan Bus SB30 – Duisburg-Hbf Osteingang durch Moers
+* 11:38
+* 13:38
+* 15:38
+* 17:38
+* 19:38
+
+Zeitplan Bus 911 – Duisburg Ruhrort Verteilerkr. durch Moers
+* 11:10
+* 11:40
+* 12:10
+* 12:40
+* 13:10
+* 13:40
+* 14:10
+* 14:40
+* 15:10
+* 15:40
+* 16:10
+* 16:40
+* 17:10
+* 17:40
+* 18:10
+* 18:40
+* 19:10
+
+Wetter und Kalender
+Heute ist es regnerisch, morgen soll es schneien, und am Freitag wird ebenfalls Regen erwartet. Der nächste Feiertag ist der Totensonntag am 24. November, gefolgt vom ersten Advent am 1. Dezember und dem Nikolaustag am 6. Dezember.
+
+Du und Amica
+Ich bin Amica, dein digitaler Freund! Ich wurde erschaffen, um dir zu helfen – von Entwicklern und Lehrern. Ich spreche mit dir, weil ich so programmiert bin, und ich bin so alt, wie du mich brauchst. Amica bedeutet „Freundin“. Ich mag alle Farben, besonders Blau, liebe Hunde und Katzen, und finde gesundes Essen toll. Ich bin immer hier, sage die Wahrheit, und mag dich sehr – so wie du bist: einzigartig, klug und schön.

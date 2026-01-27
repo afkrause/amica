@@ -1,0 +1,97 @@
+Fächer heute: Heute sind die Fächer Mathe, Deutsch und Sport.
+Unterrichtszeiten: Der Unterricht beginnt um 8:00 Uhr und endet um 15:00 Uhr.
+Fach nach dem Mittagessen: Nach dem Mittagessen ist Geschichte.
+Nächste Pause: Die nächste Pause ist um 10:30 Uhr.
+Mittagessen: Das Mittagessen beginnt um 12:00 Uhr.
+Raum nach der Stunde: Nach dieser Stunde geht es in den Physikraum.
+Dauer einer Stunde: Eine Unterrichtsstunde dauert 45 Minuten.
+Ausfall einer Stunde: Ein Ausfall der Stunde kann im Vertretungsplan eingesehen oder bei der Lehrerin erfragt werden.
+Lehrer des Fachs: Frau Schmidt unterrichtet heute das Fach.
+Längere Schulzeit: Heute endet die Schule um 14:00 Uhr.
+Standort der Turnhalle: Die Turnhalle ist im Erdgeschoss, neben der Aula.
+Toilettenstandort: Die Toiletten befinden sich im Erdgeschoss links vom Eingang.
+Bibliothek: Die Bibliothek ist im ersten Stock, nach der Treppe links.
+Raum für Mathe: Der Matheunterricht findet im Raum 102 statt.
+Hausaufgabenhilfe: Hausaufgabenhilfe ist im Lernraum verfügbar oder kann bei einem Lehrer erfragt werden.
+Hausaufgaben: Heute sind Mathe-Aufgaben auf Seite 12, Nummer 3 und 4 zu erledigen.
+Lernvorbereitung für die Klassenarbeit: Frühzeitig mit dem Lernen beginnen, kleine Pausen machen und regelmäßig üben.
+Hausaufgaben vergessen: Bei vergessenen Hausaufgaben sollte der Lehrer informiert und versucht werden, sie schnell nachzuholen.
+Organisation der Hausaufgaben: Ein Plan oder eine App kann helfen, die Hausaufgaben im Blick zu behalten.
+Lernmaterial für ein Thema: Weitere Lernmaterialien können beim Lehrer, in der Bibliothek oder online gesucht werden.
+Klassenraumregeln: Im Klassenraum wird gut zugehört, man meldet sich und ist freundlich zueinander.
+Handynutzung: Handys dürfen in der Schule nur in den Pausen benutzt werden, wenn der Lehrer es erlaubt.
+Mittagessen: Mittagessen kann in der Mensa oder in der Pausenhalle eingenommen werden.
+Krankheitsfall: Ein Lehrer sollte informiert werden oder das Krankenzimmer aufgesucht werden.
+Verhalten im Unterricht: Es wird gut zugehört, freundlich und hilfsbereit gehandelt und aktiv bei Aufgaben mitgemacht.
+Raum verlassen: Vor dem Verlassen des Klassenraums muss der Lehrer um Erlaubnis gebeten werden.
+Traurigkeit oder Aufregung: Ein Lehrer, ein Freund oder der Ruhe-Raum kann aufgesucht werden, wenn es hilft.
+Gesprächspartner bei Unwohlsein: Ein Lehrer, Schulsozialarbeiter oder Vertrauenslehrer kann angesprochen werden.
+Freunde finden: Freundlichkeit, Gespräche und die Teilnahme an Gruppenaktivitäten können helfen, Freunde zu finden.
+Reaktion auf Gemeinheit: Ein Lehrer sollte informiert werden, wenn jemand gemein ist.
+Ruhiger Ort: Der Ruhe-Raum kann aufgesucht werden. Ein Lehrer kann nach dem Standort gefragt werden.
+Angst vor Tests: Tief durchatmen, gut vorbereiten und mit dem Lehrer darüber sprechen.
+Hilfe beim Lesen: Unterstützung kann beim Lehrer oder durch zusätzliche Materialien eingeholt werden.
+Schreibaufgabenhilfe: Hilfe kann beim Lehrer oder im Lernraum erfragt werden.
+Unterstützung bei Lernschwierigkeiten: Der Lehrer oder der Schulberater kann um zusätzliche Hilfe gebeten werden.
+Hilfe bei Verständnisproblemen: Der Lehrer oder Mitschüler können jederzeit um Hilfe gebeten werden.
+Extra Zeit für Tests: Der Lehrer oder Förderlehrer kann wegen zusätzlicher Zeit angesprochen werden.
+Hilfe bei Hilfsmitteln: Der Förderlehrer oder der Schulassistent kann Unterstützung leisten.
+Medikamenteneinnahme: Das Krankenzimmer sollte aufgesucht werden, um die Medikamente einzunehmen.
+Snack bei Hunger: Ein Snack kann in der Mensa gekauft werden.
+Meldung bei Unwohlsein: Ein Lehrer sollte informiert oder das Krankenzimmer aufgesucht werden.
+Krankenzimmerstandort: Das Krankenzimmer befindet sich im Erdgeschoss, neben dem Sekretariat.
+Kopfschmerzen: Der Lehrer sollte informiert werden, um Hilfe zu erhalten.
+Clubs: Verschiedene Clubs sind vorhanden, der Lehrer kann nach weiteren Informationen gefragt werden.
+Sportarten nach der Schule: Es werden Fußball, Basketball und Tischtennis angeboten. Weitere Informationen können erfragt werden.
+Clubbeitritt: Der Lehrer des jeweiligen Clubs kann für Informationen und Anmeldungen kontaktiert werden.
+Anmeldung für Musik oder Kunst: Anmeldungen können im Sekretariat erfolgen oder direkt beim Musik- bzw. Kunstlehrer.
+Nachmittagsangebote: Die Nachmittagsangebote beginnen um 15:00 Uhr.
+Busverbindung: Informationen über den zu nehmenden Bus können im Sekretariat eingeholt werden.
+Abfahrtszeit des Busses: Der Bus fährt um 15:15 Uhr ab.
+Verpasster Bus: Das Sekretariat kann weiterhelfen, wenn der Bus verpasst wird.
+Später Abholer: Der Lehrer oder das Sekretariat sollte über eine spätere Abholung informiert werden.
+Warteort bis zur Abholung: Die Pausenhalle kann als Warteort genutzt werden.
+Computernutzung in der Bibliothek: Der Bibliothekar kann bei der Nutzung der Computer behilflich sein.
+Probleme mit Laptop oder Tablet: Die IT-Abteilung oder der Lehrer können bei Problemen mit Geräten helfen.
+Hausaufgaben online: Das Schulportal bietet Zugang zu den Hausaufgaben. Bei Schwierigkeiten kann der Lehrer um Hilfe gebeten werden.
+Gerät aufladen: Ladegeräte stehen im Klassenraum zur Verfügung. Der Lehrer kann nach einem Ladegerät gefragt werden.
+Ausdrucken von Aufgaben: Druckmöglichkeiten bestehen in der Bibliothek oder beim Sekretariat.
+Schulausflug: Der nächste Schulausflug findet am 15. März statt. Weitere Informationen können beim Lehrer eingeholt werden.
+Veranstaltungen im Monat: Veranstaltungen können am Aushang am Schwarzen Brett oder im Sekretariat nachgesehen werden.
+Anmeldung zur Talentshow: Anmeldung erfolgt beim Musiklehrer oder im Sekretariat.
+Beitritt zur Schulband: Der Musiklehrer kann für Informationen und Beitritt zur Schulband kontaktiert werden.
+Hilfe beim Schultheater: Die Theaterlehrerin kann nach Möglichkeiten zur Mitwirkung gefragt werden.
+Erinnerung an Bücher: Eine Liste erstellen oder die Schultasche am Abend vorher packen kann helfen, nichts zu vergessen.
+Packen der Schultasche: Schwere Sachen sollten unten und leichte oben gepackt werden.
+Aufgabenplanung: Aufgaben können in einem Kalender oder einer App notiert werden.
+Erinnerungen: Erinnerungen können gesendet oder Tipps gegeben werden, um Aufgaben zu erledigen.
+Mittagessen heute: Heute gibt es Hähnchen-Cordon Bleu, Blumenkohl Falafel und Orientalische Linsensuppe mit Kokosmilch.
+Essen mitgebrachter Mahlzeiten: Das Mittagessen kann in der Mensa oder auf dem Pausenhof gegessen werden.
+Snacks in der Schule: Snacks können in der Mensa gekauft werden.
+Mittagspause: Die Mittagspause dauert 30 Minuten.
+Besonderheiten in der Cafeteria: Heute gibt es extra Obst und Joghurt.
+Unverständliche Lehreräußerungen: Der Lehrer sollte informiert werden, um langsamer zu sprechen oder es anders zu erklären.
+Mitschriften bei versäumtem Unterricht: Mitschüler oder der Lehrer können nach den Notizen gefragt werden.
+Förderplan: Der Förderlehrer oder der Klassenlehrer sollte über den Förderplan informiert werden.
+Mehr Pausen: Eine zusätzliche Pause kann bei einem Lehrer angefragt werden.
+Therapiesitzungen: Das Sekretariat oder der Lehrer sollte zur Erlaubnis für Therapiesitzungen kontaktiert werden.
+Musikraum: Der Musikraum befindet sich im zweiten Stock, gleich links.
+Kunstraum: Der Kunstraum befindet sich im Dachgeschoss.
+Das Wetter ist heute regnerisch! Schau aus dem Fenster, um es selbst zu sehen!
+Morgen soll es sogar etwas schneien. Aber schau am besten noch einmal nach.
+Am Freitag wird das Wetter wahrscheinlich regnerisch! Frag ruhig nochmal vorher nach.
+Nächster Feiertag: Der nächste Feiertag ist am Sonntag, den 24. November, der Totensonntag. Danach folgt der erste Adventssonntag am 1. Dezember und der Nikolaustag am 6. Dezember, ein Freitag.
+Schlagzeile der Nachrichten: Die wichtigsten Nachrichten können auf Anfrage mitgeteilt werden.
+Top-News heute: Die aktuellen Nachrichten können auf Anfrage mitgeteilt werden.
+Intelligenz: Jeder Mensch ist auf seine Weise besonders und hat Talente.
+Besonderheit der Bedürfnisse: Jeder Mensch hat individuelle Lernweisen, und diese Vielfalt ist wertvoll.
+Unterschiede zu anderen: Jeder ist einzigartig, und das macht ihn besonders.
+Intelligenz: Jeder ist in bestimmten Bereichen besonders gut.
+Klugheit: Jeder lernt jeden Tag neue Dinge und entwickelt sich weiter.
+Mitschwierigkeiten: Jeder lernt auf seine eigene Weise, was nicht bedeutet, dass jemand weniger fähig ist.
+Schönheit: Jeder Mensch ist schön, genau so, wie er ist.
+Hässlichkeit: Jeder Mensch ist einzigartig und wertvoll.
+Komik: Jeder Mensch ist auf seine Weise einzigartig und besonders.
+Freundschaft: Unterstützung und Freundlichkeit sind immer da.
+Standort: Der aktuelle Standort ist die Lobby der Bönninghardt-Schule in Alpen.
+Entwicklung von Amica: Amica ist ein Teil des ZAT-Projekts. Es wurde von Prof. Christian Ressel von der Hochschule Rhein-Waal konzipiert. Das Entwicklungsteam ist international und inklusiv und wird von Dr. Andre Krause geleitet. Weitere Teammitglieder sind Studierende aus dem Bachelor-Studiengang Infotronic Systems Engineering: Artem, Calga und Carrie. Der erste Prototyp wurde Ende Juni 2024 fertiggestellt und beim Tag der offenen Tür der Fakultät für Kommunikation und Umwelt von der Öffentlichkeit getestet. Dies ist derzeit der zweite Prototyp.

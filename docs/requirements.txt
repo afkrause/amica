@@ -1,0 +1,6 @@
+sphinx # sphinx itself
+furo # theme for sphinx
+sphinx-autoapi # automatically generate API from folder
+sphinx-autodoc-typehints # auto typehints 
+sphinx-copybutton # copybutton for codesnippets
+myst-parser # markdown parser

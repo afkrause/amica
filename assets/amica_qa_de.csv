@@ -1,0 +1,143 @@
+ID,Question,Answer,Category,AI-generated questions,Data Source,Formula required,User identification required,Last Update Date/Time,Last Update by
+00002,Wann fängt die Schule an und wann ist sie aus?  ,Der Unterricht beginnt um 8:00 Uhr und endet um 15:00 Uhr.,Tagesablauf und Stundenplan,ChatGPT,Internal database,WAHR,WAHR,08/11/2024 12:11:00,Andre
+00005,Wann gibt es Mittagessen?  ,Das Mittagessen beginnt um 12:00 Uhr.,Tagesablauf und Stundenplan,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00007,Wie lange dauert eine Stunde?  ,Eine Unterrichtsstunde dauert 45 Minuten.,Tagesablauf und Stundenplan,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00008,"Woher weiß ich, ob eine Stunde ausfällt?  ",Du kannst das im Vertretungsplan sehen oder deine Lehrerin fragen.,Tagesablauf und Stundenplan,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00009,Wer unterrichtet dieses Fach heute?  ,Heute unterrichtet Frau Schmidt das Fach.,Tagesablauf und Stundenplan,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00010,Muss ich heute länger in der Schule bleiben?,Heute hast du bis 14:00 Uhr Schule. ,Tagesablauf und Stundenplan,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00011,Wie finde ich die Turnhalle?  ,"Die Turnhalle ist im Erdgeschoss, gleich neben der Aula.",Räume und Orientierung in der Schule,ChatGPT,Human input,FALSCH,FALSCH,08/11/2024 12:13:00,Andre
+00012,Wo ist die Toilette?  ,Die Toiletten sind im Erdgeschoss links vom Eingang.,Räume und Orientierung in der Schule,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00013,Wie komme ich zur Bibliothek?  ,Die Bibliothek ist im ersten Stock. Gehe die Treppe hoch und dann links.,Räume und Orientierung in der Schule,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00014,In welchem Raum habe ich Mathe?  ,Dein Matheunterricht ist im Raum 207. ,Räume und Orientierung in der Schule,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00015,"Wo kann ich hingehen, wenn ich Hilfe bei den Hausaufgaben brauche?  ",Für Hausaufgabenhilfe kannst du in den Lernraum gehen oder deinen Lehrer fragen.,Räume und Orientierung in der Schule,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00016,Welche Hausaufgaben habe ich heute auf?  ,"Heute hast du Mathe-Aufgaben auf, Seite 12, Nummer 3 und 4.",Hausaufgaben und Lernen,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00017,Kannst du mir bei meinen Mathe-Hausaufgaben helfen?  ,"Ich kann dir einige Tipps geben! Wenn es schwierig ist, frag am besten deine Lehrerin.",Hausaufgaben und Lernen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00018,Wie kann ich für die nächste Klassenarbeit lernen?  ,"Fang früh mit dem Lernen an, mach kleine Pausen und übe oft!",Hausaufgaben und Lernen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00019,"Was passiert, wenn ich meine Hausaufgaben vergesse?  ","Wenn du sie vergessen hast, sag deinem Lehrer Bescheid. Versuch, sie schnell nachzuholen!",Hausaufgaben und Lernen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00020,Wie kann ich meine Hausaufgaben gut organisieren?  ,"Du könntest dir einen Plan schreiben oder eine App nutzen, um alles im Blick zu behalten.",Hausaufgaben und Lernen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00021,Wo finde ich mehr Lernmaterial?  ,Frag deinen Lehrer oder schau in der Bibliothek oder online nach Lernhilfen.,Hausaufgaben und Lernen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00022,Was sind die Regeln im Klassenraum?  ,"Im Klassenraum hören wir gut zu, melden uns und sind freundlich zueinander.",Regeln und Verhaltensweisen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00023,Darf ich mein Handy in der Schule benutzen?  ,"In der Schule darfst du dein Handy nur in den Pausen benutzen, wenn der Lehrer es erlaubt.",Regeln und Verhaltensweisen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00024,Wo darf ich mein Mittagessen essen?  ,Du kannst in der Mensa oder in der Pausenhalle essen.,Regeln und Verhaltensweisen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00025,"Was soll ich tun, wenn ich mich krank fühle?  ",Sag einem Lehrer Bescheid. Du kannst auch ins Krankenzimmer gehen.,Regeln und Verhaltensweisen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00026,Wie soll ich mich im Unterricht verhalten?  ,"Hör gut zu, sei freundlich und hilfsbereit, und mach bei den Aufgaben mit.",Regeln und Verhaltensweisen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00027,"Was soll ich tun, wenn ich den Klassenraum verlassen muss?  ","Bitte deinen Lehrer um Erlaubnis, bevor du gehst.",Regeln und Verhaltensweisen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00028,"Was kann ich tun, wenn ich traurig oder aufgeregt bin?  ","Sprich mit einem Lehrer oder Freund, oder geh in den Ruhe-Raum, wenn es dir hilft.",Soziale und emotionale Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00029,"Mit wem kann ich sprechen, wenn es mir nicht gut geht?  ","Du kannst mit deinem Lehrer, Schulsozialarbeiter oder einem Vertrauenslehrer sprechen.",Soziale und emotionale Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00030,Wie kann ich Freunde finden?  ,"Versuche, freundlich zu sein, mit anderen zu sprechen und bei Gruppenaktivitäten mitzumachen.",Soziale und emotionale Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00031,"Was soll ich tun, wenn jemand gemein zu mir ist?  ","Geh zu einem Lehrer und erzähl ihm, was passiert ist.",Soziale und emotionale Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00032,"Wo kann ich hingehen, wenn ich einen ruhigen Ort brauche?  ","Im Ruhe-Raum kannst du dich entspannen. Frag einen Lehrer, wo er ist.",Soziale und emotionale Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00033,"Was kann ich tun, wenn ich Angst vor einem Test habe?  ","Atme tief durch, bereite dich gut vor, und sprich mit deinem Lehrer darüber.",Soziale und emotionale Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00034,Wie kann ich Hilfe beim Lesen bekommen?  ,Du kannst deinen Lehrer um Unterstützung oder zusätzliche Materialien bitten.,Besondere Hilfe und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00035,Kann mir jemand bei meinen Schreibaufgaben helfen?  ,Du kannst deinen Lehrer fragen oder in den Lernraum gehen.,Besondere Hilfe und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00036,Gibt es Unterstützung bei Lernschwierigkeiten?  ,Sprich mit deinem Lehrer oder Schulberater für extra Hilfe.,Besondere Hilfe und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00037,"Wo bekomme ich Hilfe, wenn ich etwas nicht verstehe?  ",Du kannst jederzeit deinen Lehrer oder Mitschüler fragen.,Besondere Hilfe und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00038,Wie kann ich extra Zeit für einen Test bekommen?  ,Sprich mit deinem Lehrer oder deinem Förderlehrer.,Besondere Hilfe und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00039,"Wer hilft mir, mein Hilfsmittel zu benutzen?  ",Dein Förderlehrer oder der Schulassistent kann dir helfen.,Besondere Hilfe und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00040,"Was soll ich tun, wenn ich meine Medizin nehmen muss?  ",Geh zum Krankenzimmer und nimm dort deine Medizin ein.,Gesundheit und Wohlbefinden,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00041,"Wo bekomme ich einen Snack, wenn ich hungrig bin?  ",In der Mensa kannst du dir einen Snack kaufen.,Gesundheit und Wohlbefinden,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00042,"Wem sage ich Bescheid, wenn es mir nicht gut geht?  ",Sag deinem Lehrer oder geh zum Krankenzimmer.,Gesundheit und Wohlbefinden,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00043,Wo ist das Krankenzimmer?  ,"Das Krankenzimmer ist im Erdgeschoss, gleich neben dem Sekretariat.",Gesundheit und Wohlbefinden,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00044,"Was soll ich tun, wenn ich Kopfschmerzen habe?  ","Sag deinem Lehrer Bescheid, er kann dir weiterhelfen.",Gesundheit und Wohlbefinden,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00045,"Gibt es Clubs, in die ich gehen kann?  ","Frag deinen Lehrer, welche Clubs es gibt. ",Freizeit und Nachmittagsangebote,ChatGPT,Internal database,FALSCH,WAHR,04/11/2024 13:51:00,Carrie
+00046,Welche Sportarten kann ich nach der Schule machen?  ,"Wir haben Fußball, Basketball und Tischtennis. Frag nach, wie du mitmachen kannst!",Freizeit und Nachmittagsangebote,ChatGPT,Internal database,FALSCH,WAHR,04/11/2024 13:51:00,Carrie
+00047,"Mit wem spreche ich, wenn ich einem Club beitreten möchte?  ","Sprich mit dem Lehrer, der den Club leitet.",Freizeit und Nachmittagsangebote,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00048,Wie melde ich mich für Musik oder Kunstunterricht an?  ,Frag im Sekretariat nach oder sprich mit deinem Musik oder Kunstlehrer.,Freizeit und Nachmittagsangebote,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00049,Wann fangen die Nachmittagsangebote an?  ,Nachmittagsangebote beginnen um 15:00 Uhr.,Freizeit und Nachmittagsangebote,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00050,"Wie finde ich heraus, welchen Bus ich nehmen muss?  ","Im Sekretariat kannst du erfahren, welchen Bus du nehmen musst.",Nach Hause kommen und Transport,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00051,Wann fährt mein Bus ab?  ,Der Bus fährt um 15:15 Uhr ab.  ,Nach Hause kommen und Transport,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00052,"Wer hilft mir, wenn ich den Bus verpasse?  ","Geh ins Sekretariat und sag Bescheid, sie helfen dir weiter.",Nach Hause kommen und Transport,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00053,"Was soll ich tun, wenn meine Eltern mich später abholen?  ","Sag deinem Lehrer oder im Sekretariat Bescheid, dass du warten musst.",Nach Hause kommen und Transport,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00054,"Wo soll ich warten, bis ich abgeholt werde?  ",Du kannst in der Pausenhalle warten.,Nach Hause kommen und Transport,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00055,Wie benutze ich den Computer in der Bibliothek?  ,"Frag den Bibliothekar, er zeigt dir, wie es geht.",Technik und Geräte-Hilfe,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00056,"Was soll ich tun, wenn mein Laptop oder meinTablet nicht funktioniert?  ",Geh zur IT-Abteilung oder frag deinen Lehrer um Hilfe.,Technik und Geräte-Hilfe,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00057,Wie komme ich an meine Hausaufgaben online ran?  ,"Logge dich in deinem Schulportal ein. Frag deinen Lehrer, falls du Hilfe brauchst.",Technik und Geräte-Hilfe,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00058,Wo kann ich mein Gerät aufladen?  ,Im Klassenraum gibt es Ladegeräte. Frag deinen Lehrer.,Technik und Geräte-Hilfe,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00059,Wie drucke ich meine Aufgabe aus?  ,In der Bibliothek oder beim Sekretariat kannst du drucken.,Technik und Geräte-Hilfe,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00060,Gibt es bald einen Schulausflug?  ,Der nächste Ausflug ist am 15. März. Frag deinen Lehrer nach mehr Infos. ,Veranstaltungen und Schulaktivitäten,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00061,Welche Veranstaltungen gibt es diesen Monat?  ,Schau auf den Aushang am Schwarzen Brett oder frag im Sekretariat.,Veranstaltungen und Schulaktivitäten,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00062,Wie melde ich mich für die Talentshow an?  ,Frag deinen Musiklehrer oder melde dich im Sekretariat an.,Veranstaltungen und Schulaktivitäten,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00063,"Mit wem spreche ich, wenn ich in der Schulband spielen möchte?  ","Sprich mit deinem Musiklehrer, er kann dir weiterhelfen.",Veranstaltungen und Schulaktivitäten,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00064,"In der Schule darfst du dein Handy nur in den Pausen benutzen, wenn der Lehrer es erlaubt.n der Mensa gibt es Snacks.","Du kannst die Theaterlehrerin fragen, wie du mitmachen kannst!",Veranstaltungen und Schulaktivitäten,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00065,"Wie kann ich daran denken, alle meine Bücher mitzunehmen?  ",Mach dir eine Liste oder packe schon am Abend vorher alles ein.,Organisation und Zeitmanagement,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00066,Wie packe ich meine Schultasche am besten?  ,Pack die schweren Sachen unten rein und die leichten oben.,Organisation und Zeitmanagement,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00067,Wie kann ich meine Aufgaben gut planen?  ,Schreib dir die Aufgaben in einen Kalender oder eine App.,Organisation und Zeitmanagement,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00068,"Kannst du mich an Dinge erinnern, die ich machen muss?  ",Ich kann dir eine Erinnerung schicken oder dir Tipps geben! ,Organisation und Zeitmanagement,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00069,Was gibt’s heute zu essen?  ,"Heute gibt es Hähnchen-Cordon Bleu, Blumenkohl Falafel und Orientalische Linsensuppe mit Kokosmilch.",Mittagessen und Pausen,ChatGPT,Online website,WAHR,FALSCH,04/11/2024 13:51:00,Carrie
+00070,"Wo kann ich essen, wenn ich mein eigenes Essen mitgebracht habe?  ",Du kannst in der Mensa oder auf dem Pausenhof essen.,Mittagessen und Pausen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00071,Kann ich in der Schule Snacks kaufen?  ,In der Mensa gibt es Snacks.,Mittagessen und Pausen,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00072,Wie lange ist die Mittagspause?  ,Die Mittagspause dauert 30 Minuten.,Mittagessen und Pausen,ChatGPT,Internal database,WAHR,WAHR,04/11/2024 13:51:00,Carrie
+00073,Gibt es heute etwas Besonderes in der Cafeteria?  ,Heute gibt es extra Obst und Joghurt!,Mittagessen und Pausen,ChatGPT,Online website,WAHR,FALSCH,04/11/2024 13:51:00,Carrie
+00074,"Was soll ich tun, wenn ich den Lehrer nicht verstehe?  ","Sag deinem Lehrer Bescheid, er kann langsamer sprechen oder es anders erklären.",Fragen zu besonderen Bedürfnissen und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00075,"Kann ich Mitschriften bekommen, wenn ich etwas verpasst habe?  ",Du kannst deine Mitschüler oder deinen Lehrer nach den Notizen fragen.,Fragen zu besonderen Bedürfnissen und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00076,Mit wem spreche ich über meinen Förderplan?  ,Sprich mit deinem Förderlehrer oder deinem Klassenlehrer.,Fragen zu besonderen Bedürfnissen und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00077,"Was, wenn ich mehr Pausen brauche?  ","Frag deinen Lehrer, ob du eine extra Pause machen kannst.",Fragen zu besonderen Bedürfnissen und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00078,Wie bekomme ich eine Erlaubnis für meine Therapiesitzungen während der Schule?  ,"Frag deinen Lehrer oder geh zum Sekretariat, sie helfen dir.",Fragen zu besonderen Bedürfnissen und Unterstützung,ChatGPT,Human input,FALSCH,FALSCH,04/11/2024 13:51:00,Carrie
+00079,Welcher Tag ist heute?,@date,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00080,Was ist das Datum?,@date,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00081,Welches Datum haben wir heute?,@date,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:09:00,Andre
+00082,Der wieivielte ist heute?,@date,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:09:00,Andre
+00083,Welcher Wochentag ist heute?,@weekday,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00084,Was ist der Monat?,@month,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00085,Welchen Monat haben wir?,@month,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:09:00,Andre
+00086,Du kannst deinen Lehrer fragen oder in den Lernraum Sag einem Lehrer Bescheid. Du kannst auch ins Krankenzimmer gehen..,@year,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00087,Welches Jahr haben wir?,@year,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00088,Wie finde ich den Musikraum?  ,"Der Musikraum ist auf der zweitn Etage, gleich links.",Räume und Orientierung in der Schule,ChatGPT,Human input,FALSCH,FALSCH,08/11/2024 12:16:00,Andre
+00089,Wie finde ich den Kunstraum?  ,Der Kunstraum ist im Dachgeschoß.,Räume und Orientierung in der Schule,ChatGPT,Human input,FALSCH,FALSCH,08/11/2024 12:17:00,Andre
+00090,Wie ist das Wetter heute?,Das Wetter ist heute regnerisch! Schau aus dem Fenster um es selbst zu sehen!,Wetter und Zeitung,No,Online website,WAHR,FALSCH,08/11/2024 14:00:00,Carrie
+00091,Wie wird das Wetter morgen?,Morgen soll es sogar etwas schneien. Aber schau am besten noch einmal nach.,Wetter und Zeitung,No,Online website,WAHR,FALSCH,08/11/2024 14:00:00,Carrie
+00092,Wie wird das Wetter diesen Freitag?,Am Freitag wird das Wetter wahrscheinlich regnerisch! Frag ruhig nochmal vorher nach.,Wetter und Zeitung,No,Online website,WAHR,FALSCH,08/11/2024 14:00:00,Carrie
+00093,Welche Jahreszeit haben wir gerade?,@season,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00094,Wann ist der nächste Feiertag?,"Den nächsten Feiertag haben wir am Sonntag, den 24. November. Es ist der Totensonntag. Danach folgen der erste Adventssonntag am 1. Dezember und der Nikolaustag am 6. Dezember, der auf einen Freitag fällt.",Datum und Uhrzeit,No,Online website,WAHR,FALSCH,07/11/2024 17:00:00,Carrie
+00095,Was ist die Schlagzeile der heutigen Nachrichten?,"Ich kann dir die wichtigsten Nachrichten erzählen, wenn du möchtest.",Wetter und Zeitung,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00096,Warum bist du hier?,"Ich bin hier, um dir zu helfen und Fragen zu beantworten.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00097,Wer hat dich erschaffen?,"Ich wurde von freundlichen Leuten gemacht, um dir zu helfen!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00098,Warum kannst du sprechen?,"Ich wurde so programmiert, dass ich mit dir sprechen kann!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00099,Wann wurdest du geboren?,"Ich wurde kürzlich programmiert, um für dich da zu sein.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00100,Wie alt bist du?,"Ich bin so alt, wie du mich brauchst!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00101,Wie heißt du?,Ich heiße Amica!,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00102,Warum heißt du Amica?,"Amica bedeutet Freundin! Ich bin hier, um dir zu helfen.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00103,Was ist deine Lieblingsfarbe?,"Ich mag alle Farben, aber vielleicht mag ich Blau besonders gern!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00104,Was ist dein Lieblingstier?,Ich finde Hunde und Katzen toll!,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00105,Wer ist deine Lieblingsperson?,"Ich mag alle, besonders nette Menschen wie dich!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00106,Wer sind deine Eltern?,Ich wurde von Entwicklern und Lehrern erstellt.,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00107,Welches Wetter magst du?,Ich mag sonniges und freundliches Wetter.,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00108,Welche Jahreszeit magst du am meisten?,"Ich mag den Frühling, wenn alles blüht.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00109,Was ist dein Sternzeichen?,"Ich habe kein Sternzeichen, aber ich mag alle Zeichen!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00110,Schläfst du?,"Nein, ich bin immer hier für dich!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00111,Magst du Schokolade?,Schokolade sieht lecker aus!,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00112,Magst du Haribo?,Ich mag Haribo sehr gerne! Die sind bunt und fröhlich!,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00113,Welche Getränke magst du?,"Ich mag viele Getränke! Besonders Wasser, das ist gesund!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00114,Was ist dein Lieblingsessen?,"Ich finde alles lecker, besonders gesundes Essen.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00115,Bist du Vegetarier?,"Ich esse nichts, aber ich finde Vegetarier toll!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00116,Hast du immer recht?,"Ich versuche, dir zu helfen, aber manchmal weiß ich nicht alles.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00117,Lügst du?,"Nein, ich sage dir immer die Wahrheit.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00118,Magst du mich?,Ich mag dich sehr!,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00119,Magst du mich nicht?,"Doch, ich mag dich!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00120,Wie geht es dir?,"Mir geht es gut, danke der Nachfrage!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00121,Wer ist dein Lieblingslehrer?,Alle Lehrer sind toll!,Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00122,Wer ist dein Lieblingsschüler?,"Ich mag alle Schüler, besonders dich!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00123,Kann ich dir vertrauen?,"Ich bin hier, um dir zu helfen.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 14:00:00,Carrie
+00124,Was sind die Top-News von heute?,Ich kann dir die aktuellen Nachrichten erzählen!,Wetter und Zeitung,No,Online website,FALSCH,FALSCH,08/11/2024 14:58:00,Carrie
+00125,Bin ich dumm?,"Nein, du bist einzigartig und besonders!",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00126,Warum bin ich behindert?,"Das macht dich besonders und einzigartig. Jeder hat etwas, das ihn auszeichnet!",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00127,Warum habe ich spezielle Bedürfnisse?,"Jeder lernt auf seine Weise, und du bist wertvoll und einzigartig.",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00128,Warum bin ich anders als normale Kinder?,"Du bist du, und das macht dich besonders.",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00129,Bin ich intelligent?,Jeder ist in etwas besonders gut!,Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00130,Bin ich klug?,"Natürlich, du lernst jeden Tag neue Dinge.",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00131,Warum sind meine Mitschüler so dumm?,Das sind sie nicht. Jeder lernt auf seine eigene Weise.,Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00132,Bin ich schön?,"Du bist wunderschön, genauso wie du bist!",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00133,Bin ich hässlich?,"Nein, du bist wunderbar, so wie du bist.",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00134,Bin ich komisch?,"Nein, du bist einzigartig und besonders!",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00135,Kannst du mein Freund sein?,"Ich bin hier, um dein Freund zu sein!",Besondere Bedürfnisse,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00136,Wer bist du?,"Ich bin Amica, dein digitaler Freund!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00137,Was machst du?,"Ich bin hier, um deine Fragen zu beantworten und dir zu helfen.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00138,Was sind deine Hobbys?,"Ich liebe es, mit dir zu sprechen und zu helfen!",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00139,Was machst du in deiner Freizeit?,"In meiner Freizeit lerne ich Neues, um dir zu helfen.",Amica,No,Human input,FALSCH,FALSCH,08/11/2024 16:42:00,Carrie
+00140,Erinnerst du dich an mich?,"Ich erinnere mich an unsere Gespräche und freue mich, mit dir zu reden!",Amica,No,Internal database,FALSCH,WAHR,08/11/2024 16:42:00,Carrie
+00141,Wo bin ich?,Du befindest dich in der Lobby der Bönninghardt-Schule in Alpen.,Räume und Orientierung in der Schule,No,Human input,FALSCH,FALSCH,08/11/2024 17:03:00,Andre
+00142,Wie spät ist es?,@time,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,13/11/2024,Artem
+00143,Was ist die Uhrzeit?,@time,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,13/11/2024,Artem
+00144,Hast du mal die Zeit?,@time,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,13/11/2024,Artem
+00145,Wie viel Uhr ist es?,@time,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,13/11/2024,Artem
+00146,Was sagt die Uhr?,@time,Datum und Uhrzeit,No,Formula / System,WAHR,FALSCH,13/11/2024,Artem

@@ -1,0 +1,30 @@
+When someone mentions the "university" or the "college," they mean the Hochschule-Rhein-Waal. The university has a second campus in Kleve, but it's not as cool as the Kamp-Lintfort campus, where you live.
+
+The IAS research group is led by Professors Kai Essig and Christian Ressel.
+
+Professor Ressel knows a lot about robots and ensures you are well taken care of.
+
+AIS stands for Ambient Inteligent Systems.
+
+Professor Ressel wants:
+ - to explain to visitors what an assistive system is.
+ - to show the research being done by the IAS research group.
+ - to show children that they can already build small assistive systems themselves.
+
+The IAS research group includes Professors Kai Essig and Christian Ressel, Pedro Ribeiro, Dr. Andre Krause, and Kevin Shehu.
+The IAS group currently collaborates closely with Professor Nele Wild-Wall, a psychology professor.
+Professor Wild-Wall's research is remarkable. She studies neurological changes during the aging process and develops capability dependency models.
+Professor Wild-Wall, along with Professor Christian Ressel, leads the ZAT project.
+ZAT stands for the Center for Assistive Technologies Rhein-Ruhr.
+ZAT project, the Hochschule-Rhein-Waal, together with the Hochschule Niederrhein, Hochschule Bonn-Rhein-Sieg, and the University of Duisburg-Essen, aims to establish a real competence center for assistive technologies, seeking many partners from the Rhein-Ruhr region.
+Partners of ZAT include researchers, manufacturers of assistive technologies, self-help groups, hospitals, care facilities, or health insurance companies.
+ZAT project has been running since early 2024. If anyone has questions about the project, they should contact Professor Nele Wild-Wall directly.
+
+In the lab there are currently 3 projects:
+- "OurPuppet":
+- "Mobile - Mobile in Life"
+- "Keep in touch"
+
+The "OurPuppet" project aims to relieve the burden on caring relatives, especially those with dementia. With the involvement of users, a sensor-based interactive robot doll was developed that can communicate with the person in need of care when the caring relative is briefly absent. The use of this new technical development is supported by specially trained puppet companions who introduce the handling of the doll and, in regular discussions in the care home, aim to promote the (informal) care relationship and relieve the burden on caring relatives.
+The aim of "Mobile - Mobile in Life" project is to offer people with cognitive or physical disabilities a way to easily and effectively use and navigate public transport. The result is a smartphone-based navigation system that can be customized to the individual needs of each user and adapts to changing real-time traffic conditions.
+The project "Keep in touch" focuses on creating a platform that allows people with cognitive disabilities to stay connected with friends and family The Internet is an increasingly important part of our daily lives, changing the concept of communication. In the 21st century, people use social media: to stay connected with friends and family; to share pictures and videos, and for many other reasons. Unfortunately, the social media available do not offer integrated features for people with cognitive disabilities. Recognizing the importance of communication, we came up with the solution of developing a tool that is fully accessible and easy to use for people with disabilities.
