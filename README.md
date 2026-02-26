@@ -38,18 +38,32 @@ brew install font-liberation
 
 ## Usage
 
-Before starting Amica, you need to download the voice model and create the vector embeddings for the Q&A Database:
+Before starting Amica, you need to download the voice model: 
+
 ```
 ./download_thorsten_voice.sh
-python data_packager.py
+```
+
+and create the vector embeddings for the Q&A Database:
+```
+python src/data_packager.py
+```
+or
+```
+uv run src/data_packager.py
 ```
 
 To start Amica, now run:
 ```
-python amica_main_loop.py
+python src/amica_main_loop.py
+```
+or
+```
+uv run src/amica_main_loop.py
 ```
 
-Be patient, some models might be downloading on first startup.
+Be patient, some models and data files need to be loaded during startup. 
+Do not press the microphone button before the message "vector store loaded" appears in the command line.
 
 
 ## Documentation

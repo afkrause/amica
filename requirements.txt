@@ -17,3 +17,4 @@ langchain-core
 langchain-ollama
 langchain-huggingface
 
+belay # for detecting PTT microphone button press

@@ -12,6 +12,7 @@ if __name__ == "__main__":
     qa_files = ["amica_qa_de.csv"]
     data_files = ["data_with_schedules.txt"]
     # load the embeddings model
+    print("loading embedding model: ", embeddings_model)
     embeddings = HuggingFaceEmbeddings(model_name=embeddings_model, model_kwargs={'device': 'cpu'})
 
     # This code is used to take Q&A files and data files from the assets folder and to package them all into vectorstores
@@ -24,8 +25,9 @@ if __name__ == "__main__":
     # create lists to hold questions and answers
     answers = []
     questions = []
-    # load the questions and answers from the qa files
+    # load the questions and answers from the qa files    
     for file in qa_files:
+        print("load Q&A file: ", file)
         filepath = f"{folder}/{file}"
         # check if the file is json or csv
         if file.endswith(".json"):
@@ -43,6 +45,7 @@ if __name__ == "__main__":
             print("Unsupported file format: ", file)
 
     # create a vector store for the questions
+    print("create a vector store for the questions")
     question_store = InMemoryVectorStore(embedding=embeddings)
     question_store.add_texts(texts=questions)
     # dump the question store and the Q&A to files
@@ -54,6 +57,7 @@ if __name__ == "__main__":
         yaml.dump(qa, f)
 
     # create a vector store for the data files
+    print("create a vector store for the data files")
     vectorstore = InMemoryVectorStore(embedding=embeddings)
     for file in data_files:
         with open(f"{folder}/{file}", "r") as f:
@@ -66,5 +70,7 @@ if __name__ == "__main__":
             # data files that we use should be already formatted and separated by newlines
             splits = f.read().split("\n\n")
             vectorstore.add_texts(texts=splits)
+    
     # dump the vector store to a file
     vectorstore.dump(f"{folder}/packaged_data")
+    print("done!")

@@ -61,22 +61,46 @@ if __name__ == "__main__":
     #'''
     import belay
     # init belay by connecting to the pico microcontroller via USB
-    pico = belay.Device("/dev/ttyACM0")
+    try:
+        pico = belay.Device("/dev/ttyACM0")
+        @pico.setup
+        def init_raspi_pico():
+            from machine import Pin
+            """Setup function to initialize the button pin on the pico."""
+            # circuit is set up so that the pin reads HIGH when the button is pressed
+            button = Pin(22, Pin.IN, Pin.PULL_DOWN)
+        
+        init_raspi_pico()
+        
+        @pico.task
+        def button_pressed(key):
+            """Returns True if the button is currently pressed, False otherwise. """
+            # button.value() returns 1 if pin is HIGH, 0 if LOW
+            return button.value() == 1        
+    except Exception:
+        print("raspberry pi pico not found. emulating PTT button press using opencv")
+        # if no raspi pico is ar hand, 
+        # use opencv to simulate key-down and key-up events by 
+        # pressing and releasing the space key
+        t_keypressed = time.time()
+        def button_pressed(key):
+            global t_keypressed
+            # if space key (keycode=32) is beeing kept pressed,
+            # the keyboard will repeatedly generate an event (keyrepeat time is defined by OS, typically 33ms).
+            # if no new key event was generated for some time, the recording state will be set to false again.
+            if key == 32:  # spacebar
+                t_keypressed = time.time()
+                return True
+        
+            if time.time() - t_keypressed > 0.5:  # 500ms after releasing the space bar: stop recording
+                return False
+            else:
+                return True                
+    finally:
+        pass
     
-    @pico.setup
-    def init_raspi_pico():
-        from machine import Pin
-        """Setup function to initialize the button pin on the pico."""
-        # circuit is set up so that the pin reads HIGH when the button is pressed
-        button = Pin(22, Pin.IN, Pin.PULL_DOWN)
     
-    init_raspi_pico()
-    
-    @pico.task
-    def button_pressed(key):
-        """Returns True if the button is currently pressed, False otherwise. """
-        # button.value() returns 1 if pin is HIGH, 0 if LOW
-        return button.value() == 1
+
     #'''
     
     '''
