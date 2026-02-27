@@ -15,6 +15,7 @@ import librosa  # for audio downsampling
 import numpy as np
 import torch
 import yaml
+import sys
 
 from datetime import datetime
 
@@ -78,7 +79,7 @@ if __name__ == "__main__":
             # button.value() returns 1 if pin is HIGH, 0 if LOW
             return button.value() == 1        
     except Exception:
-        print("raspberry pi pico not found. emulating PTT button press using opencv")
+        print("raspberry pi pico not found. emulating PTT button press with space-bar.")
         # if no raspi pico is ar hand, 
         # use opencv to simulate key-down and key-up events by 
         # pressing and releasing the space key
@@ -102,31 +103,14 @@ if __name__ == "__main__":
     
 
     #'''
-    
-    '''
-    # if no raspi pico is ar hand, 
-    # use opencv to simulate key-down and key-up events by 
-    # pressing and releasing the space key
-    t_keypressed = time.time()
-    def button_pressed(key):
-        global t_keypressed
-        # if space key (keycode=32) is beeing kept pressed,
-        # the keyboard will repeatedly generate an event (keyrepeat time is defined by OS, typically 33ms).
-        # if no new key event was generated for some time, the recording state will be set to false again.
-        if key == 32:  # spacebar
-            t_keypressed = time.time()
-            return True
-    
-        if time.time() - t_keypressed > 0.5:  # 500ms after releasing the space bar: stop recording
-            return False
-        else:
-            return True        
-    #'''
     #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     
     global_start = time.time()
 
     config_file = "config.yaml"
+    if len(sys.argv) > 1:
+        config_file = sys.argv[1]
+
     # Load configuration from YAML
     try:
         with open(config_file, 'r') as file:
