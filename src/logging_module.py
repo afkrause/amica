@@ -4,10 +4,17 @@ from pathlib import Path
 
 
 def logging_thread(log_queue, global_start, timetag):
+    print("logging thread started.")
+    
+    log_base_folder = Path("logs/")
+    if not log_base_folder.exists():
+        log_base_folder.mkdir()
+    
     # check if /log/ folder exists if not, create it
-    log_folder = Path(__file__).resolve().parent / f"logs/log_{timetag}"
+    #log_folder = Path(__file__).resolve().parent / f"logs/log_{timetag}"
+    log_folder = Path(f"logs/log_{timetag}")
     if not log_folder.exists():
-        print("Creating log folder")
+        print("Creating log folder:", log_folder)
         log_folder.mkdir()
     log_file_name = f"./logs/log_{timetag}/amica_log_{timetag}"
     log_file = open(log_file_name+".csv", "w")

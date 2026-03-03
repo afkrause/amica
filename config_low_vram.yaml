@@ -1,7 +1,7 @@
 # config file for the tuxedo laptop Infinitybook Pro Gen8 with RTX 4060 and 64 GB RAM
 # Server configuration
 remote_ollama_server: false  # Use a remote server or not
-logging: false  # Enable or disable logging
+logging: true  # Enable or disable logging
 
 # Asset paths
 assets:

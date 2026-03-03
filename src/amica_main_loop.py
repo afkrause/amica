@@ -341,12 +341,6 @@ if __name__ == "__main__":
                         generating_answer = True
 
                     ##################
-
-                    '''
-                    # save as wav file
-                    datetimestr = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-                    write_wav(datetimestr+"_output.wav", wav)
-                    #'''
                     wav_data = []
                 else:
                     print("too little audio data captured for speech to text conversion")
