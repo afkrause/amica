@@ -1,4 +1,4 @@
-# AMICA: A privacy-friendly voice assistant
+# AMICA: a friendly, privacy-respecting voice assistant
 
 ## Menu: [Installation](#Installation) | [Usage](#Usage) | [Documentation](#Documentation) 
 
@@ -22,7 +22,7 @@ A paper for this work was peer-reviewed and accepted by [COGNITIVE 2026](https:/
 Python version:  >= 3.12 (default on Linux Mint 22)
 
 
-The required package **pyaudio** depends on the c(++) library **portaudio**.
+The required package **pyaudio** depends on the C(++) library **portaudio**.
 The development header files and libraries for portaudio should be installed before installing the Python requirements:
 
 ```
