@@ -16,6 +16,12 @@ for School Children with Intellectual Disabilities. In The Eighteenth Internatio
 
 A paper for this work was peer-reviewed and accepted by [COGNITIVE 2026](https://www.iaria.org/conferences2026/CfPCOGNITIVE26.html). The paper link will be included here after publication.
 
+
+
+![GUI Background Image](https://github.com/afkrause/amica/blob/main/assets/mystical_llama_by_saiyagina_d2muhab.jpg)
+*Credits: Georgina Chacón, ["Mystical Llama"](https://www.deviantart.com/saiyagina/art/Mystical-Llama-159305987) (CC BY-NC-ND 3.0 License)*
+
+
 ## Installation
 
 ### prerequisites
@@ -99,5 +105,6 @@ We thank Aaron Schneider and Seetu Shrestha from the Rhine-Waal University of Ap
 We thank Felix Bergmann, Anne Ferger and Thomas Schmidt from the University of Duisburg-Essen for supporting the data management of study 1.
 
 *Source Code Availability and Licenses*
+
 The source code of AMICA is released under the GNU General Public License, version 3 (GPL‑3.0) and is available at \url{https://github.com/afkrause/amica}.
 We also thank Georgina Chacón for granting permission to use her artwork ["Mystical Llama"](https://www.deviantart.com/saiyagina/art/Mystical-Llama-159305987) (CC BY-NC-ND 3.0 License) as the background image of AMICA's GUI.
