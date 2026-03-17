@@ -106,5 +106,5 @@ We thank Felix Bergmann, Anne Ferger and Thomas Schmidt from the University of D
 
 *Source Code Availability and Licenses*
 
-The source code of AMICA is released under the GNU General Public License, version 3 (GPL‑3.0) and is available at \url{https://github.com/afkrause/amica}.
-We also thank Georgina Chacón for granting permission to use her artwork ["Mystical Llama"](https://www.deviantart.com/saiyagina/art/Mystical-Llama-159305987) (CC BY-NC-ND 3.0 License) as the background image of AMICA's GUI.
+The source code of AMICA is released under the GNU General Public License, version 3 (GPL‑3.0).
+We thank Georgina Chacón for granting permission to use her artwork ["Mystical Llama"](https://www.deviantart.com/saiyagina/art/Mystical-Llama-159305987) (CC BY-NC-ND 3.0 License) as the background image of AMICA's GUI.
