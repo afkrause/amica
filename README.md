@@ -3,10 +3,13 @@
 ## Menu: [Installation](#Installation) | [Usage](#Usage) | [Documentation](#Documentation) 
 
 ## Introduction
-AMICA = Accessible Multimodal Interaction Conversational Assistant
+AMICA = **A**ccessible **M**ultimodal **I**nteraction **C**onversational **A**ssistant
 - customized for German-speaking school children (with Intellectual Disabilities),
 - with our design principle of **100% privacy, 0% cloud**,
-- therefore can be adapted to become a privacy-friendly voice assistant for anyone concerned about data protection and confidentiality.
+- therefore can be adapted to become a privacy-respecting voice assistant for anyone concerned about data protection and confidentiality.
+
+Note: AMICA exclusively uses open-source technologies and open-source AI models that can be executed locally on consumer-grade hardware without an internet connection.
+--> best possible privacy, low deployment costs, resilience from internet disruptions
 
 ### related publication
 If you would like to cite AMICA, please use:
