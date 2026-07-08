@@ -14,12 +14,10 @@ Note: AMICA exclusively uses open-source technologies and open-source AI models 
 ### related publication
 If you would like to cite AMICA, please use:
 
-Krause, A. F., Savelov, A., Ching, C., Kannen, K., Pitsch, K., Wild-Wall, N. & Ressel, C. (forthcoming). AMICA: Accessible Multimodal Interaction Conversational Assistant
-for School Children with Intellectual Disabilities. In The Eighteenth International Conference on Advanced Cognitive Technologies and Applications, (COGNITIVE 2026) (accepted)
+Krause, A. F., Savelov, A., Ching, C., Kannen, K., Pitsch, K., Wild-Wall, N. & Ressel, C. (2026). AMICA: Accessible Multimodal Interaction Conversational Assistant
+for School Children with Intellectual Disabilities. In The Eighteenth International Conference on Advanced Cognitive Technologies and Applications (COGNITIVE 2026). IARIA Press.
 
-A paper for this work was peer-reviewed and accepted by [COGNITIVE 2026](https://www.iaria.org/conferences2026/CfPCOGNITIVE26.html). The paper link will be included here after publication.
-
-
+[The published paper](https://www.thinkmind.org/library/COGNITIVE/COGNITIVE_2026/cognitive_2026_2_120_40057.html) is open-access.
 
 ![GUI Background Image](https://github.com/afkrause/amica/blob/main/assets/mystical_llama_by_saiyagina_d2muhab.jpg)
 *Credits: Georgina Chacón, ["Mystical Llama"](https://www.deviantart.com/saiyagina/art/Mystical-Llama-159305987) (CC BY-NC-ND 3.0 License)*
