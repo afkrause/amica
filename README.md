@@ -16,6 +16,19 @@ If you would like to cite AMICA, please use:
 
 Krause, A. F., Savelov, A., Ching, C., Kannen, K., Pitsch, K., Wild-Wall, N., & Ressel, C. (2026). AMICA: Accessible Multimodal Interaction Conversational Assistant for School Children with Intellectual Disabilities. In The Eighteenth International Conference on Advanced Cognitive Technologies and Applications (COGNITIVE 2026). IARIA Press. (pp. 91-98). ISBN: 978-1-68558-375-0
 
+bibtex:
+```bibtex
+@inproceedings{Krause2026AMICA,
+  author    = {Krause, André Frank and Savelov, Artem and Ching, Carry and Kannen, Kyra and Pitsch, Karola and Wild-Wall, Nele and Ressel, Christian},
+  title     = {AMICA: Accessible Multimodal Interaction Conversational Assistant for School Children with Intellectual Disabilities},
+  booktitle = {The Eighteenth International Conference on Advanced Cognitive Technologies and Applications (COGNITIVE 2026)},
+  year      = {2026},
+  publisher = {IARIA Press},
+  pages     = {91--98},
+  isbn      = {978-1-68558-375-0}
+}
+```
+
 [The published paper](https://www.thinkmind.org/articles/cognitive_2026_2_120_40057.pdf) is open-access.
 
 ![GUI Background Image](https://github.com/afkrause/amica/blob/main/assets/mystical_llama_by_saiyagina_d2muhab.jpg)
